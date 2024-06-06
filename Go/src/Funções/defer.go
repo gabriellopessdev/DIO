@@ -1,4 +1,4 @@
-// "defer" escalona nossas funções
+// "defer" adia uma funções
 package main
 
 import "fmt"
