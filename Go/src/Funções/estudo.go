@@ -1,5 +1,6 @@
 package main
 import "fmt"
+//Funções com paramentro opcional
 
 // func torrar(pao string, nome ... string){
 //     cliente := "Não teve cliente indentificado"//variavel para trtar paramentro opcinal representado por "nome ..."
